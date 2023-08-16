@@ -55,7 +55,7 @@ A robust and scalable backend platform for users to manage and interact with blo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20">
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="20" height="20">
 
-[Blogging API](Your Link Here)
+[Blogging API](https://github.com/Tanisht48/Blogging_Platform_Backend_Api_With_Aws)
 
 ### Doctors Appointment 🏥
 
