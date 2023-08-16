@@ -32,7 +32,50 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
+## Experience 🚀
+
+- **Apprentice & Associate Teacher** at Geekster
+  - Assisted students in comprehending data structures and algorithms with clarity
+  - Explained complex DSA principles in an accessible manner
+
+## Projects 🔧
+
+### Blogging API 📝
+
+A robust and scalable backend platform for users to manage and interact with blog posts, comments, and fellow bloggers.
+
+- Leveraged Java Spring Boot and MySQL for seamless user experience
+- Implemented user registration, authentication, and Swagger API documentation
+- Deployed on AWS EC2 instances
+
+**Tech Stack**: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="20" height="20">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="20" height="20">
+
+[Blogging API](Your Link Here)
+
+### Doctors Appointment 🏥
+
+An application built with Spring Boot for efficient management of patient-doctor interactions.
+
+- Created API endpoints for patient and appointment management
+- Implemented secure patient registration, login, and scheduling
+- Utilized Spring Data JPA with MySQL for seamless database operations
+
+**Tech Stack**: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="20" height="20">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20">
+
+[Doctor Appointment API ](https://github.com/Tanisht48/Doctor_App)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisht48&" alt="tanisht48" />
 </p>
+
+## Goals 🌟
+
+I'm actively seeking a Java developer position to apply my skills in crafting scalable and dependable applications. I'm enthusiastic about contributing to projects that leverage data structures and algorithms to solve real-world challenges.
