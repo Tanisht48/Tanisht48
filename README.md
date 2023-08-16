@@ -1,4 +1,6 @@
-# Hi there, I'm Tanisht Gupta 👋
+<h1 align="center">Hi 👋, I'm Tanisht Gupta</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
+
 
 ## About Me
 
@@ -9,9 +11,7 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 🤝 As a team player, I thrive in collaborative environments, contributing effectively to achieve shared objectives.
 
 
-A passionate Backend developer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisht48&label=Profile%20views&color=0e75b6&style=flat" alt="tanisht48" /> </p>
 
 - 📫 How to reach me: **tanishtgupta42@gmail.com**
 
