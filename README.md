@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a dedicated and enthusiastic Java developer with a strong foundation in data structures and algorithms. Holding a B.Tech degree in Computer Science from Surendra Institute of Engineering and Management, I'm on a journey to enhance my skills in full-stack web development through training at Geekster. Proficient in Java, Spring Boot, and MySQL, I'm always excited to adopt new technologies and stay updated with the latest trends in software development.
+I'm a dedicated and enthusiastic Java developer with a strong foundation in data structures and algorithms. Holding a B.Tech degree in Computer Science from Maulana Abul Kalam Azad University of Technology, I'm on a journey to enhance my skills in full-stack web development through training at Geekster. Proficient in Java, Spring Boot, and MySQL, I'm always excited to adopt new technologies and stay updated with the latest trends in software development.
 
 🌱 I believe in continuous learning and growth, both as a developer and an individual.
 
