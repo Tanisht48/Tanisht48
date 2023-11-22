@@ -12,10 +12,25 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 
 
 
-
 - 📫 How to reach me: **tanishtgupta42@gmail.com**
 
 - 📄 Know about my experiences [Read my CV](https://docs.google.com/document/d/1_J6qTrmYjc-RG6Dg4JTvpNIsUOVLV4Ur/edit)
+## Current Focus 🎯
+
+I'm currently exploring new horizons in my software development journey. Here are some areas I'm currently focusing on:
+
+- 🚀 **Learning JavaScript, HTML, and CSS:** Expanding my skill set to cover the front-end development landscape.
+
+- 🌐 **Full-Stack Development:** Continuing my journey into full-stack development, integrating my strong back-end skills with front-end technologies.
+
+- 🐘 **PostgreSQL:** Deepening my understanding of relational databases, with a focus on PostgreSQL for scalable and reliable data storage.
+
+Feel free to check out my repositories for the latest projects and updates on what I'm working on!
+
+## Projects in Progress 🚧
+
+Stay tuned for exciting projects I'm currently working on. Watch this space for updates and contributions!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
