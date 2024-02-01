@@ -14,7 +14,7 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 
 - 📫 How to reach me: **tanishtgupta42@gmail.com**
 
-- 📄 Know about my experiences [Read my CV](https://docs.google.com/document/d/1_J6qTrmYjc-RG6Dg4JTvpNIsUOVLV4Ur/edit)
+- 📄 Know about my experiences [Read my CV](https://drive.google.com/file/d/1LAKYZCmOZwGLZYfDkcyxu7SB9i-N-gxV/view?usp=sharing)
 ## Current Focus 🎯
 
 I'm currently exploring new horizons in my software development journey. Here are some areas I'm currently focusing on:
