@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanisht Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Tanisht48.Tanisht48)
+
 
 ## About Me
 
